@@ -9,3 +9,7 @@ This project is a clone of the Netflix login page implemented using HTML, CSS, a
 - HTML
 - CSS
 - JavaScript
+
+## Live preview
+
+You can view the live preview [here](https://neflixt.netlify.app/).
